@@ -24,4 +24,5 @@ Aap is repository ke **Settings > Pages** mein jaakar **GitHub Pages** enable ka
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Ashrafff4/dark-blur-auth-portal.git](https://github.com/Ashrafff4/dark-blur-auth-portal.git)
+   git clone [https://github.com/Ashrafff4/dark-glass-login.git](https://github.com/Ashrafff4/dark-glass-login.git)
+   
