@@ -22,12 +22,6 @@ A high-performance, responsive single-page authentication portal built using Van
 
 ---
 
-##  Live Demo
-
-Aap is repository ke **Settings > Pages** mein jaakar **GitHub Pages** enable karke ise live hosted link par converted dekh sakte hain.
-
----
-
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
