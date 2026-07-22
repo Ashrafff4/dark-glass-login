@@ -26,3 +26,6 @@ Aap is repository ke **Settings > Pages** mein jaakar **GitHub Pages** enable ka
    ```bash
    git clone [https://github.com/Ashrafff4/dark-glass-login.git](https://github.com/Ashrafff4/dark-glass-login.git)
    
+<p align="center">
+  <img width="617" height="761" alt="preview" src="https://github.com/user-attachments/assets/9c16849e-4265-4d14-835f-f2a8793d4e89" />
+</p>
